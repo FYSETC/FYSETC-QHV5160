@@ -115,7 +115,7 @@ QHV5160 is a upgrade of HV5160, specially designed for high-voltage drive requir
 
 ## 8. Where to buy
 
-<a href="https://www.aliexpress.com/item/3256803888258629.html"><img src="images/aliexpress.png" alt="Aliexpress" height="80" style="position:relative;left:200px;" /></a> <a href="https://item.taobao.com/item.htm?id=673881536790"><img src="images/taobao.png" alt="taobao" height="80" style="position:relative;left:400px;" /></a> <a href="https://www.fysetc.com/products/fysetc-tmc5160-hv-stepper-step-stick-spi-silent-motor-driver-high-power-maximum-voltage-60v-upgraded-3d-printer-parts?variant=41654892691631"><img src="images/fysetc_online_shop.png" alt="fysetc" height="80" style="position:relative;left:600px;"/></a> 
+<a href="https://www.aliexpress.com/item/3256803888258629.html"><img src="images/Aliexpress.png" alt="Aliexpress" height="80" style="position:relative;left:200px;" /></a> <a href="https://item.taobao.com/item.htm?id=673881536790"><img src="images/taobao.png" alt="taobao" height="80" style="position:relative;left:400px;" /></a> <a href="https://www.fysetc.com/products/fysetc-tmc5160-hv-stepper-step-stick-spi-silent-motor-driver-high-power-maximum-voltage-60v-upgraded-3d-printer-parts?variant=41654892691631"><img src="images/fysetc_online_shop.png" alt="fysetc" height="80" style="position:relative;left:600px;"/></a> 
 
 
 ## 9. Tech Support
