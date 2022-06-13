@@ -1,6 +1,6 @@
 # QHV5160
 
-![QHV5160 with heatsink](assets/QHV5160_size.jpg)
+![QHV5160 with heatsink](images/QHV5160_size.jpg)
 
 ## 1. Introduction
 
@@ -49,7 +49,7 @@ QHV5160 is a upgrade of HV5160, specially designed for high-voltage drive requir
 
 ## 5. Hardware Guide
 
-![img](assets/QHV5160_Pins.jpg)
+![img](images/QHV5160_Pins.jpg)
 
 ### 5.1 Pin Functions
 
@@ -86,7 +86,7 @@ QHV5160 is a upgrade of HV5160, specially designed for high-voltage drive requir
 
 #### 5.2.1 Solder Jumper
 
-![image-20220613122452878](assets/QHV5160_JP1.png)
+![QHV5160_JP1](images/QHV5160_JP1.png)
 
 | JP1<br/>SPI_MODE<br/>Pin22 <br/>Integrated pull down resistor. | Pin21 | Mode                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
@@ -95,11 +95,11 @@ QHV5160 is a upgrade of HV5160, specially designed for high-voltage drive requir
 
 #### 5.2.2 USE SPI mode on FYSETC Boards
 
-![HV5160 on Spider](assets/HV5160 on Spider.png)
+![HV5160 on Spider](images/HV5160 on Spider.png)
 
 #### 5.2.3 Heatsink install
 
-![QHV5160_Heatsink_install](assets/QHV5160_Heatsink.png)
+![QHV5160_Heatsink_install](images/QHV5160_Heatsink.png)
 
 ## 6. Part List
 
@@ -110,12 +110,12 @@ QHV5160 is a upgrade of HV5160, specially designed for high-voltage drive requir
 ## 7. Documentations
 
 [TMC5160 Chip Datasheet](https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5160A_Datasheet_Rev1.15.pdf) 
-[Schematic]() 
-[3D mode]() 
+[Schematic](https://github.com/FYSETC/FYSETC-QHV5160/blob/main/QHV5160%20V1.0%20SCH.pdf) 
+[3D mode](https://github.com/FYSETC/FYSETC-QHV5160/blob/main/QHV5160%20STEP3D.rar) 
 
 ## 8. Where to buy
 
-<a href="https://www.aliexpress.com/item/3256803888258629.html"><img src="E:/BaiduNetdiskWorkspace/markdown/docs/images/aliexpress.png" alt="aliexpress" height="80" style="position:relative;left:200px;" /></a> <a href="https://item.taobao.com/item.htm?id=673881536790"><img src="E:/BaiduNetdiskWorkspace/markdown/docs/images/taobao.png" alt="taobao" height="80" style="position:relative;left:400px;" /></a> <a href="https://www.fysetc.com/products/fysetc-tmc5160-hv-stepper-step-stick-spi-silent-motor-driver-high-power-maximum-voltage-60v-upgraded-3d-printer-parts?variant=41654892691631"><img src="assets/fysetc_online_shop.png" alt="fysetc" height="80" style="position:relative;left:600px;"/></a> 
+<a href="https://www.aliexpress.com/item/3256803888258629.html"><img src="E:/BaiduNetdiskWorkspace/markdown/docs/images/aliexpress.png" alt="aliexpress" height="80" style="position:relative;left:200px;" /></a> <a href="https://item.taobao.com/item.htm?id=673881536790"><img src="E:/BaiduNetdiskWorkspace/markdown/docs/images/taobao.png" alt="taobao" height="80" style="position:relative;left:400px;" /></a> <a href="https://www.fysetc.com/products/fysetc-tmc5160-hv-stepper-step-stick-spi-silent-motor-driver-high-power-maximum-voltage-60v-upgraded-3d-printer-parts?variant=41654892691631"><img src="images/fysetc_online_shop.png" alt="fysetc" height="80" style="position:relative;left:600px;"/></a> 
 
 
 ## 9. Tech Support
