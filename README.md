@@ -115,7 +115,7 @@ QHV5160 is a upgrade of HV5160, specially designed for high-voltage drive requir
 
 ## FAQ
 1. If you find that your QHV5160 cannot use the sensor-less homing function, please change it according to the picture below:
-![Enable_QHV5160_DIAG0](images/Enable_QHV5160_DIAG0.png)
+![Enable_QHV5160_DIAG0](images/Enable_QHV5160_DIAG0.jpg)
 
 ## 8. Where to buy
 
