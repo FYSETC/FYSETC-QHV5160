@@ -95,7 +95,7 @@ QHV5160 working mode selection is base on the voltage present on Pin21 and Pin22
 
 #### 5.2.2 USE SPI mode on FYSETC Boards
 
-![HV5160 on Spider](images/HV5160 on Spider.png)
+![HV5160 on Spider](images/HV5160_on_Spider.png)
 
 #### 5.2.3 Heatsink install
 
